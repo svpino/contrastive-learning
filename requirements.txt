@@ -1,0 +1,6 @@
+keras
+matplotlib
+pydot
+tensorflow
+tensorflow-macos
+tensorflow-metal
